@@ -1,0 +1,64 @@
+header{
+    width: auto;
+    font-family: arial;
+    display: flex;
+    padding: 1em;
+
+}
+
+#head-left{
+    display: flex;
+    width: 400vw;
+    max-height: 0px;
+    justify-content: space-between;
+
+}
+
+#head-right{                                                          
+    min-width: 150px;
+    height: 40px;
+    gap: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 7px;
+    text-align: right;
+}
+
+#button-app{
+    min-width: 30px;
+    height: 25px;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+#button-sesion{
+    min-width: 118px;
+    height: 20px;     
+    background-color: rgb( 66, 133, 244 );
+    border-radius: 10px;
+    padding: 7px;
+    color: white;
+    text-align:inherit;
+}
+#main{
+    display: flex;
+    justify-content: space-between;
+    min-width: min-content;
+}
+
+footer{
+    min-height: 50vh;
+    padding: 1em;
+    font-family: arial;
+    height: 50px;
+}
+
+#country{
+    min-width: 5vw;
+}
+#bot{
+    min-width: 25vw;
+    display: flex;
+    justify-content: space-between;
+}

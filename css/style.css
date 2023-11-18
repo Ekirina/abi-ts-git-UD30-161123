@@ -45,20 +45,34 @@ header{
     display: flex;
     justify-content: space-between;
     min-width: min-content;
+    height: 80vh;
+    align-items:initial;
+    justify-content: center;
+}
+
+#logo{
+    min-width: 10vw;
+    min-height: 50vh;
+    margin-top: 180px;
 }
 
 footer{
-    min-height: 50vh;
+    min-height: 5vh;
     padding: 1em;
     font-family: arial;
-    height: 50px;
+    flex-direction: column;
 }
 
 #country{
+    display: flex;
     min-width: 5vw;
 }
 #bot{
+    padding-top: 2px;
     min-width: 25vw;
     display: flex;
     justify-content: space-between;
+    border-top: grey;
+    border-top-width: 1px;
+    border-top-style: solid;
 }

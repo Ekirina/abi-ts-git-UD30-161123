@@ -64,7 +64,6 @@ header{
     width: 700px;
     border-radius: 50px;
     margin-bottom: 20px;
-
 }
 #loupe{
     width:10%;
@@ -97,14 +96,16 @@ input:focus{
     display: flex;
     text-align: center;
     width: 18vw;
-    margin-top: 30px;
+    margin-top: 20px;
     justify-content: space-between;
     color: grey;
-    
 }
 button{
     border: none;
     border-radius: 10px;
+}
+button:hover{
+    cursor:pointer;
 }
 #message{
     font-family: arial;

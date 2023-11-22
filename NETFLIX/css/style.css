@@ -62,6 +62,31 @@ p{
 }
 #avatar{
     width: 5%;
-    margin-top: 30px;
+    margin-top: 25px;
     margin-left: 20px;
+}
+/*END HEADER*/
+#container1{
+    width: 100vw;
+    height: 92vh;
+    display: grid;
+    background-color: aqua;
+    grid-template-rows: 1fr 2fr 1fr 2fr 1fr 2fr;
+    grid-template-columns: 1fr, 1fr, 1fr, 1fr, 1fr;
+    gap: 1px;
+}
+#row1_1{
+    grid-column: 2/1;
+}
+#row1_2{
+    grid-column: 2/2;
+}
+#row1_3{
+    grid-column: 2/3;
+}
+#row1_4{
+    grid-column: 2/4;
+}
+#row1_5{
+    grid-column: 2/5;
 }

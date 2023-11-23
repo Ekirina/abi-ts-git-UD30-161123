@@ -98,14 +98,17 @@ input:focus{
     width: 18vw;
     margin-top: 20px;
     justify-content: space-between;
-    color: grey;
 }
 button{
     border: none;
-    border-radius: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(245, 237, 237);
 }
 button:hover{
     cursor:pointer;
+    border: 1px solid rgb(162, 161, 161);
+
 }
 #message{
     font-family: arial;

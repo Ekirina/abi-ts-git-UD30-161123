@@ -7,11 +7,11 @@ body{
     justify-content: space-between;
     width: 100vw;
     height: 8vh;
+    align-items: center;
 }
 #logo{
     width: 10%;
     margin-left: 30px;
-    margin-top: 2px;
 }
 p{
     display: inline;
@@ -22,7 +22,6 @@ p{
     color: white;
     font-family: arial;
     justify-content:center;
-    margin-top: 40px;
     text-align: start;
     font-size: 17px;
 }
@@ -56,13 +55,11 @@ p{
     color:chocolate;
     justify-content: space-between;
     align-items: center;
-    margin-top: 30px;
     display: flex;
     -ms-flex-align: end;
 }
 #avatar{
     width: 5%;
-    margin-top: 50px;
     margin-left: 50px;
 }
 /*END HEADER*/
@@ -105,7 +102,7 @@ h3{
     align-items: center;
 }  
 #row1_1 img{
-    max-width: 100%;
+    max-width: 98%;
     max-height: 100%;
     height: auto;
     width: 100%;
@@ -120,7 +117,7 @@ h3{
     align-items: center;
 }
 #row1_2 img{
-    max-width: 100%;
+    max-width: 98%;
     max-height: 100%;
     height: auto;
     width: 100%;
@@ -135,7 +132,7 @@ h3{
     align-items: center;
 }
 #row1_3 img{
-    max-width: 100%;
+    max-width: 98%;
     max-height: 100%;
     height: auto;
     width: 100%;
@@ -150,7 +147,7 @@ h3{
     align-items: center;
 }
 #row1_4 img{
-    max-width: 100%;
+    max-width: 98%;
     max-height: 100%;
     height: auto;
     width: 100%;
@@ -164,7 +161,7 @@ h3{
     align-items: center;
 }
 #row1_5 img{
-    max-width: 100%;
+    max-width: 98%;
     max-height: 100%;
     height: auto;
     width: 100%;
@@ -178,7 +175,7 @@ h3{
     align-items: center;
 }  
 #row2_1 img{
-    max-width: 100%;
+    max-width: 98%;
     max-height: 100%;
     height: auto;
     width: 100%;
@@ -193,7 +190,7 @@ h3{
     align-items: center;
 }
 #row2_2 img{
-    max-width: 100%;
+    max-width: 98%;
     max-height: 100%;
     height: auto;
     width: 100%;
@@ -208,7 +205,7 @@ h3{
     align-items: center;
 }
 #row2_3 img{
-    max-width: 100%;
+    max-width: 98%;
     max-height: 100%;
     height: auto;
     width: 100%;
@@ -223,7 +220,7 @@ h3{
     align-items: center;
 }
 #row2_4 img{
-    max-width: 100%;
+    max-width: 98%;
     max-height: 100%;
     height: auto;
     width: 100%;
@@ -237,7 +234,7 @@ h3{
     align-items: center;
 }
 #row2_5 img{
-    max-width: 100%;
+    max-width: 98%;
     max-height: 100%;
     height: auto;
     width: 100%;
@@ -251,7 +248,7 @@ h3{
     align-items: center;
 }  
 #row3_1 img{
-    max-width: 100%;
+    max-width: 98%;
     max-height: 100%;
     height: auto;
     width: 100%;
@@ -266,7 +263,7 @@ h3{
     align-items: center;
 }
 #row3_2 img{
-    max-width: 100%;
+    max-width: 98%;
     max-height: 100%;
     height: auto;
     width: 100%;
@@ -281,7 +278,7 @@ h3{
     align-items: center;
 }
 #row3_3 img{
-    max-width: 100%;
+    max-width: 98%;
     max-height: 100%;
     height: auto;
     width: 100%;
@@ -296,7 +293,7 @@ h3{
     align-items: center;
 }
 #row3_4 img{
-    max-width: 100%;
+    max-width: 98%;
     max-height: 100%;
     height: auto;
     width: 100%;
@@ -310,7 +307,7 @@ h3{
     align-items: center;
 }
 #row3_5 img{
-    max-width: 100%;
+    max-width: 98%;
     max-height: 100%;
     height: auto;
     width: 100%;
